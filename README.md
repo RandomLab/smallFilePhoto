@@ -6,7 +6,7 @@ La première image sur le web est apparue il y a 30 ans. Elle faisait environ 12
 
 [Appel](https://thephotographersgallery.org.uk/whats-on/open-call-small-file-photo-festival) du festival Small file photo
 
-- Dress to Compress : soumettez une photographie de 100 Kb maximum, ainsi que les outils que vous avez utilisés et les étapes que vous avez suivies pour la compresser. Une dimension minimale de 100x100 pixels est recommandée.
+- Dress to Compress : soumettez une photographie de 100 Ko maximum, ainsi que les outils que vous avez utilisés et les étapes que vous avez suivies pour la compresser. Une dimension minimale de 100x100 pixels est recommandée.
  
 - Small is Beautiful : soumettez une photographie à l'aide d'un appareil photo qui produit des fichiers de petite taille (par exemple, un vieil appareil photo numérique, un smartphone ou un appareil photo de type gameboy), et indiquez-nous quel appareil vous avez utilisé.
  
@@ -44,8 +44,54 @@ Autres catégories possible:
 
 ### Artistes
 
+- [Jacques Perconte](https://www.jacquesperconte.com/)
+
+- [Thomas Ruff](https://www.paris-art.com/jpegs-ou-limage-ecran/)
+
 ## Ressources
 
 ### Outils
 
-### Code
+#### GUI
+
+- [GIMP](https://www.gimp.org/)
+
+- [Krita](https://krita.org/fr/)
+
+#### CLI
+
+- [Image Magick](https://imagemagick.org/index.php)
+
+- [ImageOptim](https://imageoptim.com/command-line.html)
+
+#### WEB
+
+- [Aktinson Dithering](https://gazs.github.io/canvas-atkinson-dither/)
+
+- [Glitchy3bitDither](http://jkirchartz.com/Glitchy3bitdither/)
+
+- [Ditherit](https://ditherit.com/)
+
+- [Photomosh](https://photomosh.com/)
+
+- [Dither Me this](https://doodad.dev/dither-me-this/)
+
+- [ordered-dither-maker](https://seansleblanc.itch.io/ordered-dither-maker)
+
+- [dither punk lab](https://surma.dev/lab/ditherpunk/lab.html)
+
+- [Push](https://push.constraint.systems/)
+
+- [Flow](https://flow.constraint.systems/)
+
+- [Collapse](https://collapse.constraint.systems/)
+
+#### Librairies
+
+- [Open CV processing](https://github.com/atduskgreg/opencv-processing)
+
+- [Open CV python](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+
+- [Pillow](https://pillow.readthedocs.io/en/stable/) Python
+
+#### Code
