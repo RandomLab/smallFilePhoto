@@ -20,23 +20,23 @@ Autres catégories possible:
 - tiny binary
 - more-than-a-pixel
 
-### Qui peut participer ?
+### Qui peut participer ?
 
 - L'appel est gratuit et ouvert à tous.
 
-### Combien d'images puis-je soumettre ?
+### Combien d'images puis-je soumettre ?
 
 - Vous pouvez soumettre jusqu'à 5 images par soumission. Vous pourrez choisir une catégorie pour chaque image.
 
-### deadline
+### deadline
 
 - Mercredi 04 Janvier à 23:59 
 
-### Comment les gagnants seront-ils sélectionnés ?
+### Comment les gagnants seront-ils sélectionnés ?
 
 - Les images gagnantes seront sélectionnées par un jury composé de Clare Strand, Roel Roscam Abbing, Antonio Roberts et Marloes de Valk. Elles seront annoncées lors d'une cérémonie de remise des prix à la Photographers' Gallery le samedi 28 janvier.
 
-### Quels sont les prix ?
+### Quels sont les prix ?
 
 - Les prix pour les soumissions gagnantes comprennent un trophée, une exposition en ligne sur unthinking.photography et une adhésion d'un an à The Photographers' Gallery, d'une valeur de 50 £. 
 
