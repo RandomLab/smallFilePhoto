@@ -64,7 +64,7 @@ Autres catégories possible:
 
 - [ImageOptim](https://imageoptim.com/command-line.html)
 
-#### WEB
+#### WEB
 
 - [Aktinson Dithering](https://gazs.github.io/canvas-atkinson-dither/)
 
@@ -95,3 +95,7 @@ Autres catégories possible:
 - [Pillow](https://pillow.readthedocs.io/en/stable/) Python
 
 #### Code
+
+- [dithringEx](https://github.com/RandomLab/smallFilePhoto/tree/main/dithringEx)
+
+- [destruction_recursive](https://github.com/RandomLab/smallFilePhoto/tree/main/destruction_recursive)
