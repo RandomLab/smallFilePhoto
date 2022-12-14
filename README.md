@@ -58,6 +58,16 @@ https://toolstud.io/photo/filesize.php
 
 - [Thomas Ruff](https://www.paris-art.com/jpegs-ou-limage-ecran/)
 
+
+## Thèmes nuls
+
+- disparition
+- autoportrait
+- paysage
+- nature
+- rêves
+
+
 ## Ressources
 
 ### Outils
