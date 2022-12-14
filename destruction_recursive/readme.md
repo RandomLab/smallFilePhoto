@@ -3,7 +3,7 @@
 
 - On compresse une image de 100% à 0% fois en reduisant la qualité de 1% à chaque passage
 
-# usage
+## usage
 
 - création d'un environnement virtuel
 

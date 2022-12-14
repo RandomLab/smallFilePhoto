@@ -60,7 +60,7 @@ Autres catégories possible:
 
 #### CLI
 
-- [Image Magick](https://imagemagick.org/index.php)
+- [Image Magick](https://github.com/RandomLab/smallFilePhoto/tree/main/image_magick_scrips)
 
 - [ImageOptim](https://imageoptim.com/command-line.html)
 
@@ -99,3 +99,5 @@ Autres catégories possible:
 - [dithringEx](https://github.com/RandomLab/smallFilePhoto/tree/main/dithringEx)
 
 - [destruction_recursive](https://github.com/RandomLab/smallFilePhoto/tree/main/destruction_recursive)
+
+- [Image magick scripts](https://github.com/RandomLab/smallFilePhoto/tree/main/image_magick_scrips)
