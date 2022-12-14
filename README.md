@@ -59,7 +59,7 @@ https://toolstud.io/photo/filesize.php
 - [Thomas Ruff](https://www.paris-art.com/jpegs-ou-limage-ecran/)
 
 
-## Thèmes nuls
+## Thèmes
 
 - disparition
 - autoportrait
@@ -68,9 +68,15 @@ https://toolstud.io/photo/filesize.php
 - rêves
 - fugace
 - vibration
+- errance
+- explosion
 
 
 ## Ressources
+
+### Recherche
+
+- https://yandex.com/
 
 ### Outils
 
