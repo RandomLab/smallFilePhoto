@@ -4,7 +4,7 @@ La première image sur le web est apparue il y a 30 ans. Elle faisait environ 12
 
 ## Informations
 
-[Appel](https://thephotographersgallery.org.uk/whats-on/open-call-small-file-photo-festival) du festival Small file photo
+https://thephotographersgallery.org.uk/whats-on/open-call-small-file-photo-festival du festival Small file photo
 
 - Dress to Compress : soumettez une photographie de 100 Ko maximum, ainsi que les outils que vous avez utilisés et les étapes que vous avez suivies pour la compresser. Une dimension minimale de 100x100 pixels est recommandée.
  
@@ -19,6 +19,14 @@ Autres catégories possible:
 - pixel perfect
 - tiny binary
 - more-than-a-pixel
+
+
+### Formats acceptés 
+Acceptable file types: .gif, .jpg, .jpeg, .png, .svg, .tif, .tiff
+Maximum size for an individual file: 100kb
+
+### calculer le rapport taille / poids
+https://toolstud.io/photo/filesize.php
 
 ### Qui peut participer ?
 
