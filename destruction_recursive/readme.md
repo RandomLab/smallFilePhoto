@@ -1,7 +1,7 @@
 
 # destuction recursive
 
-- On compresse une image de 100% à 0% fois en reduisant la qualité de 1% à chaque passage
+- On compresse une image de 100% à 0% x fois en reduisant la qualité de 1% à chaque passage
 
 ## usage
 
@@ -11,6 +11,8 @@
 
 - les images vont dans le dossier images
 
-- lancement du script
+- lancement du script : l'entier n°1 correspond à la première boucle, l'entier n°2 correspond à la seconde boucle 
 
-`python main.py`
+`python main.py 20 30`
+
+- changer la valeur des 2 boucles pour faire des variations
