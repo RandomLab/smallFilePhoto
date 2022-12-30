@@ -1,5 +1,7 @@
 
-# destuction recursive
+# destruction recursive
+
+adaptation du bot twitter Jpegbot > https://twitter.com/jpegbot
 
 - On compresse une image de 100% à 0% x fois en reduisant la qualité de 1% à chaque passage
 
