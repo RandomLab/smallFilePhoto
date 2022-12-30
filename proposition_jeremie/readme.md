@@ -27,6 +27,6 @@ initialement 48ko ensuite 38ko compressée 1800 fois
 
 125ko 52ko 600 passages
 
-![source](https://au.shotoe.com/thumb/phpThumb.php?src=%2Fuploads%2Fnews%2F16%2F1641%2F6%2F1641644-orroral-valley-bushfire-breaks-out-in-namadgi-national-park.jpg)
+![source](https://au.shotoe.com/thumb/phpThumb.php?src=%2Fuploads%2Fnews%2F16%2F1641%2F6%2F1641644-orroral-valley-bushfire-breaks-out-in-namadgi-national-park.jpg&w=706&hash=8fbf1613f242f3cf2a657aad9afa14da)
 
-![image](https://github.com/RandomLab/smallFilePhoto/blob/main/proposition_jeremie/images/pirosvestiki.jpg)
+![image](https://github.com/RandomLab/smallFilePhoto/blob/main/proposition_jeremie/images/EPSth2yUcAAMY27.jpg)
