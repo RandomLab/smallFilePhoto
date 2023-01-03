@@ -47,3 +47,25 @@ initialement 48ko ensuite 38ko compressée 1800 fois
 
 ![image](https://github.com/RandomLab/smallFilePhoto/blob/main/proposition_jeremie/images/baa37e61c30bf62f742693c44e03817d.jpg)
 
+
+## Ecosia-Australia-Fires.jpg
+
+56ko 32ko 900 passages
+
+![source](https://blog.ecosia.org/content/images/size/w1000/2020/01/Ecosia-Australia-Fires.jpg)
+
+![image](https://github.com/RandomLab/smallFilePhoto/blob/main/proposition_jeremie/images/Ecosia-Australia-Fires.jpg)
+
+
+## 2019-12-27-FIRE-Bilpin.jpg
+
+61ko 600 passages
+
+![source](https://rhodogarden.org.au/wp-content/uploads/2020/01/2019-12-27-FIRE-Bilpin.jpg)
+
+![image](https://github.com/RandomLab/smallFilePhoto/blob/main/proposition_jeremie/images/2019-12-27-FIRE-Bilpin.jpg)
+
+
+
+
+
