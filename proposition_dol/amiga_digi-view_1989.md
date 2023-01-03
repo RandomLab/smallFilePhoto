@@ -11,8 +11,8 @@ For this mini-series of 5 images, I have chosen to evoke the photographs of UFOs
 
 ![image](https://github.com/RandomLab/smallFilePhoto/blob/main/proposition_dol/photos/Amiga_Digi-View_%20v4_LARTIGAUD_02.png)
 
-![image](https://github.com/RandomLab/smallFilePhoto/blob/main/proposition_dol/photos/Amiga_Digi-Vie_%20v4_LARTIGAUD_03.png)
+![image](https://github.com/RandomLab/smallFilePhoto/blob/main/proposition_dol/photos/Amiga_Digi-View_%20v4_LARTIGAUD_03.png)
 
-![image](https://github.com/RandomLab/smallFilePhoto/blob/main/proposition_dol/photos/Amiga_Digi-Vie_%20v4_LARTIGAUD_04.png)
+![image](https://github.com/RandomLab/smallFilePhoto/blob/main/proposition_dol/photos/Amiga_Digi-View_%20v4_LARTIGAUD_04.png)
 
 ![image](https://github.com/RandomLab/smallFilePhoto/blob/main/proposition_dol/photos/Amiga_Digi-View_%20v4_LARTIGAUD_05.png)
