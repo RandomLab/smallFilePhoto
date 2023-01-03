@@ -1,4 +1,4 @@
-# Small Files UFOs
+# Small Files UFOs (series 1)
 
 Photographs taken with a Casio watch called [Wrist Camera](https://maxmax.com/aXRayCasioWristCamera.htm) from 1999.
 The images it can produce are 120x120 pixels in size and weigh about 6 kb. They can be downloaded on a computer via an infrared interface.
