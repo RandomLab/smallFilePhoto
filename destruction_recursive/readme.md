@@ -1,20 +1,18 @@
 
-# destruction recursive
+# Destructive recursion script
 
-adaptation du bot twitter Jpegbot > https://twitter.com/jpegbot
+its an adaptation of the twitter bot wrote by Mike Watson called JPEG bot > https://twitter.com/jpegbot
 
-- On compresse une image de 100% à 0% x fois en reduisant la qualité de 1% à chaque passage
+- We compress an image 100% à 0% x time we reduce 1% of the quality each time 
 
 ## usage
 
-- création d'un environnement virtuel
+- Create an virtual environment
 
 `python -m venv venv`
 
-- les images vont dans le dossier images
+- put the images in a folder name 'out'
 
-- lancement du script : l'entier n°1 correspond à la première boucle, l'entier n°2 correspond à la seconde boucle 
+- launch the script in CLI and pass 2 int values for arguments  
 
 `python main.py 20 30`
-
-- changer la valeur des 2 boucles pour faire des variations

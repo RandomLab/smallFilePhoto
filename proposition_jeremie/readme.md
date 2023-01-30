@@ -66,6 +66,6 @@ initialement 48ko ensuite 38ko compressée 1800 fois
 ![image](https://github.com/RandomLab/smallFilePhoto/blob/main/proposition_jeremie/images/2019-12-27-FIRE-Bilpin.jpg)
 
 
-
-
+This image is made with a python script called Recursive destruction (read below for more information) and a image of a megafire, the source is here : https://rhodogarden.org.au/wp-content/uploads/2020/01/2019-12-27-FIRE-Bilpin.jpg
+Dress to Compress
 
